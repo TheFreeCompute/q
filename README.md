@@ -1,8 +1,8 @@
 #!/bin/bash
 
 uptime
+date
 uptime
+date
 uptime
-uptime
-uptime
-uptime
+date
