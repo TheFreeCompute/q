@@ -6,8 +6,8 @@ echo
 echo the free compute
 echo
 
-echo uptime
+uptime
 
 ls ~/
 
-echo date
+date
