@@ -1,13 +1,13 @@
 #!/bin/bash
 
+ls ~/
+
 echo
 echo the free compute
 echo
 
 echo uptime
-echo
-echo date
 
 ls ~/
-ls ~/
-ls ~/
+
+echo date
