@@ -9,3 +9,5 @@ echo
 echo date
 
 ls ~/
+ls ~/
+ls ~/
