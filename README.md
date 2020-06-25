@@ -1,9 +1,3 @@
 #!/bin/bash
 
-ls ~/
-
-uptime
-
-ls ~/
-
-date
+touch ~/Desktop/cron.txt
