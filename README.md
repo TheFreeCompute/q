@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch ~/Desktop/cron.txt
+touch ~/Desktop/cron.txt || true
