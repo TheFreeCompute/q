@@ -1,9 +1,12 @@
 #!/bin/bash
 
 echo
+echo the free compute
+echo
 
-uptime
-date
+echo uptime
+echo
+echo date
 
 echo
 
