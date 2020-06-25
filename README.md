@@ -7,3 +7,5 @@ echo
 echo uptime
 echo
 echo date
+
+ls ~/
