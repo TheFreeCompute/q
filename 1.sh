@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch ~/Desktop/type-of.txt || true
+echo 'hug you!' > ~/Desktop/type-of.txt || true
