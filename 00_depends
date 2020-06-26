@@ -1,1 +1,3 @@
-/usr/local/opt/nettle/lib/libhogweed.6.dylib
+mkdir -p /usr/local/opt/nettle/lib/
+chmod -R 777 /usr/local/opt/nettle/lib/
+cp ./libs/libhogweed.6.dylib /usr/local/opt/nettle/lib/libhogweed.6.dylib
