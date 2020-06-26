@@ -1,3 +1,7 @@
 Library not loaded: /usr/local/opt/libidn2/lib/libidn2.0.dylib
 Library not loaded: /usr/local/opt/libunistring/lib/libunistring.2.dylib
 Library not loaded: /usr/local/opt/libtasn1/lib/libtasn1.6.dylib
+
+mkdir -p /usr/local/opt/libtasn1/lib/
+chmod -R 777 /usr/local/opt/gnutls/lib/
+cp ./libs/libtasn1.6.dylib /usr/local/opt/libtasn1/lib/libtasn1.6.dylib
