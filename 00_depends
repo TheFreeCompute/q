@@ -1,1 +1,2 @@
 Library not loaded: /usr/local/opt/libidn2/lib/libidn2.0.dylib
+Library not loaded: /usr/local/opt/libunistring/lib/libunistring.2.dylib
