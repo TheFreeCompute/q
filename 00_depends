@@ -1,3 +1,1 @@
-mkdir -p /usr/local/opt/nettle/lib/
-chmod -R 777 /usr/local/opt/nettle/lib/
-cp ./libs/libnettle.8.dylib /usr/local/opt/nettle/lib/libnettle.8.dylib
+/usr/local/opt/nettle/lib/libhogweed.6.dylib
